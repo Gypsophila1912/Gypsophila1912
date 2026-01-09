@@ -2,6 +2,8 @@
 <img src="./header.svg" alt="Header Image" width="100%" style="border-radius:10px; margin-bottom:15px;" />
 
 # Gypsophila1912
+<!-- プロフィールカード -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gypsophila1912&theme=dracula)
 
 ## 🔥 Skills
 
