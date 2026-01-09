@@ -1,9 +1,21 @@
 <!-- ヘッダー -->
 <img src="./header.svg" alt="Header Image" width="100%" style="border-radius:10px; margin-bottom:15px;" />
 
-# Gypsophila1912
+## Gypsophila1912(ぎぷそ)
+[じょぎ](https://jyogi.net)に所属しているぎぷそです
+<p align="left">
+  <a href="https://github.com/Gypsophila1912">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Gypsophila1912" alt="profile views"/>
+  </a>
+  <a href="https://github.com/Gypsophila1912?tab=followers">
+    <img height="20" src="https://img.shields.io/github/followers/Gypsophila1912?label=follow&logo=github&style=flat" alt="followers"/>
+  </a>
+</p>
+
 <!-- プロフィールカード -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gypsophila1912&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gypsophila1912&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gypsophila1912&theme=gruvbox&utcOffset=9)
 
 ## 🔥 Skills
 
