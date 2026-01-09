@@ -1,22 +1,26 @@
-<img alt="SNQ-2001" src="./header.svg" width="98.2%" height="100%">
+<img alt="SNQ-2001" src="./header.svg" width="100%" height="auto">
 
 ## Status
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gypsophila1912&theme=2077)
+<!-- プロフィールカード -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gypsophila1912&theme=dracula)
 
-[![Gypsophila's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
-)](https://github.com/Gypsophila1912/github-readme-stats)
+<!-- GitHub ステータス -->
+[![Gypsophila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gypsophila1912&show_icons=true&theme=dracula)](https://github.com/Gypsophila1912/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gypsophila1912)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- トロフィー -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gypsophila1912&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
+## My Skills
 
-## My SkiLL
+### Languages
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/ja/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/ja/docs/Web/CSS)
 
-[![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
-[![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
-[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+### Frameworks & Tools
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
