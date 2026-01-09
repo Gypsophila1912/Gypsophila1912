@@ -3,8 +3,6 @@
 
 # Gypsophila1912
 
----
-
 ## 🔥 Skills
 
 ### Languages
